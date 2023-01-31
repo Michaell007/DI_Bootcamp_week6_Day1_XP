@@ -1,3 +1,4 @@
 <?php
-    echo 'Hello PHP'
+    $message = 'Hello PHP';
+    echo $message
 ?>
